@@ -43,9 +43,9 @@ One example use of a 2-dimensional array is for holding sorted tabular data:
 
 ```ruby
 contacts = [
-  [‘Bruce Wayne’, 'Batman’, ‘555-333-444'],
-  [‘Clark Kent’, ’Superman’, ‘555-123-456'],
-  [‘Peter Parker’, ’Spiderman’, ‘555-111-222']
+  ['Bruce Wayne', 'Batman', '555-333-444'],
+  ['Clark Kent', 'Superman', '555-123-456'],
+  ['Peter Parker', 'Spiderman', '555-111-222']
   ...
 ]
 ```
