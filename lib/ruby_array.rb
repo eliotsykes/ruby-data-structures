@@ -24,7 +24,7 @@ class RubyArray
   end
 
   def first
-    @element_0
+    self[0]
   end
 
   def empty?

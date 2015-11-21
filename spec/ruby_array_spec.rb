@@ -51,6 +51,10 @@ describe RubyArray do
     it 'describes an empty array' do
       expect(RubyArray.new.to_s).to eq '[]'
     end
+
+    xit 'describes a populated array' do
+
+    end
   end
 
   describe '.length' do
